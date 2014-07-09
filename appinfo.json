@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "0l1v3rof@googlemail.com",
+    "longName": "MFWatchface25hr",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logo.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/grass.png",
+                "name": "BACK",
+                "type": "png"
+            },
+            {
+                "file": "images/Dithered Image.png",
+                "name": "BACKB",
+                "type": "png"
+            },
+            {
+                "file": "fonts/imagine.ttf",
+                "name": "IMAGINE_42",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "MFWatchface24",
+    "uuid": "2bf9fec5-4106-4f97-bb41-ae31318733ad",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
